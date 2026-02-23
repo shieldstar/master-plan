@@ -1,0 +1,19 @@
+{
+  "name": "master-plan",
+  "version": "1.0.0",
+  "description": "AI-native task management powered by a MASTER_PLAN.md file. Pick tasks, track progress, save WIP, and ship — all through Claude Code skills.",
+  "author": {
+    "name": "endlessblink",
+    "url": "https://github.com/endlessblink"
+  },
+  "repository": "https://github.com/endlessblink/master-plan",
+  "license": "MIT",
+  "keywords": [
+    "task-management",
+    "master-plan",
+    "workflow",
+    "productivity",
+    "agent-skills"
+  ],
+  "skills": "./skills/"
+}
