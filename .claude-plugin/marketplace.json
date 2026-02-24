@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "master-plan",
-      "source": ".",
+      "source": "./",
       "description": "Task lifecycle skills: /next, /done, /save, /task",
       "version": "1.0.0"
     }
