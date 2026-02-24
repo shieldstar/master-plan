@@ -1,0 +1,18 @@
+{
+  "name": "master-plan",
+  "owner": {
+    "name": "endlessblink",
+    "url": "https://github.com/endlessblink"
+  },
+  "metadata": {
+    "description": "AI-native task management for Claude Code. Track tasks in MASTER_PLAN.md — pick, save, ship."
+  },
+  "plugins": [
+    {
+      "name": "master-plan",
+      "source": ".",
+      "description": "Task lifecycle skills: /next, /done, /save, /task",
+      "version": "1.0.0"
+    }
+  ]
+}
