@@ -1,5 +1,7 @@
 # master-plan
 
+![master-plan cover](cover.png)
+
 AI-native task management for [Claude Code](https://claude.com/claude-code). Track tasks in a `MASTER_PLAN.md` file, pick what to work on, save progress, and ship — all through agent skills.
 
 ```
