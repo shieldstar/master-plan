@@ -7,6 +7,10 @@ description: Task completion workflow — run tests, commit, push, and update MA
 
 Finalize a completed task: verify tests pass, commit changes, update MASTER_PLAN.md, and push.
 
+## Triggers
+
+- `/master-plan:done` - Main command
+- "mark done", "task complete", "finish task", "ship it"
 
 ## Workflow
 
@@ -151,7 +155,6 @@ git push
 Output this summary:
 
 ```
-
 ## Task Complete
 
 - **Task**: TASK-XXX (or "Quick fix")
@@ -162,7 +165,6 @@ Output this summary:
 - **MASTER_PLAN.md**: Updated / N/A
 ```
 
-
 ## Important Rules
 
 1. **NEVER skip commit/push** — Changes must be pushed to the remote
@@ -171,3 +173,11 @@ Output this summary:
 4. **Verify with grep** after updating MASTER_PLAN.md
 5. **Wait for user input** — Don't assume or skip questions
 6. **Test failures block completion** — If tests fail, stop and report
+
+## Files to NEVER Commit
+
+- `.env*` files (secrets)
+- `credentials*.json`
+- Private keys, tokens
+- Generated/cached files (`node_modules/`, `dist/`, `__pycache__/`)
+- OS files (`.DS_Store`, `Thumbs.db`)
