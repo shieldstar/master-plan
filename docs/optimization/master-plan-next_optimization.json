@@ -1,0 +1,338 @@
+{
+  "skill": "master-plan-next",
+  "baseline_score": 4.75,
+  "best_score": 7.5,
+  "best_params": {
+    "condensed": true,
+    "bold_rules": true,
+    "include_triggers": false,
+    "include_arguments": false,
+    "include_workflow": false,
+    "include_master_plan.md_update_rules": false,
+    "include_rules": true
+  },
+  "improvement": 2.75,
+  "n_trials": 20,
+  "results": [
+    {
+      "trial": 0,
+      "score": 5.25,
+      "params": {
+        "condensed": false,
+        "bold_rules": true,
+        "include_triggers": true,
+        "include_arguments": false,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": true
+      },
+      "variant_len": 875,
+      "baseline_score": 4.75,
+      "delta": 0.5
+    },
+    {
+      "trial": 1,
+      "score": 6.5,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": false
+      },
+      "variant_len": 805,
+      "baseline_score": 4.75,
+      "delta": 1.75
+    },
+    {
+      "trial": 2,
+      "score": 4.25,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_arguments": true,
+        "include_workflow": true,
+        "include_master_plan.md_update_rules": true,
+        "include_rules": false
+      },
+      "variant_len": 3534,
+      "baseline_score": 4.75,
+      "delta": -0.5
+    },
+    {
+      "trial": 3,
+      "score": 4.5,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": false,
+        "include_arguments": true,
+        "include_workflow": true,
+        "include_master_plan.md_update_rules": true,
+        "include_rules": false
+      },
+      "variant_len": 4314,
+      "baseline_score": 4.75,
+      "delta": -0.25
+    },
+    {
+      "trial": 4,
+      "score": 5.5,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": false
+      },
+      "variant_len": 805,
+      "baseline_score": 4.75,
+      "delta": 0.75
+    },
+    {
+      "trial": 5,
+      "score": 4.75,
+      "params": {
+        "condensed": true,
+        "bold_rules": false,
+        "include_triggers": false,
+        "include_arguments": true,
+        "include_workflow": true,
+        "include_master_plan.md_update_rules": true,
+        "include_rules": true
+      },
+      "variant_len": 3827,
+      "baseline_score": 4.75,
+      "delta": 0.0
+    },
+    {
+      "trial": 6,
+      "score": 5.5,
+      "params": {
+        "condensed": false,
+        "bold_rules": true,
+        "include_triggers": true,
+        "include_arguments": false,
+        "include_workflow": true,
+        "include_master_plan.md_update_rules": true,
+        "include_rules": true
+      },
+      "variant_len": 4535,
+      "baseline_score": 4.75,
+      "delta": 0.75
+    },
+    {
+      "trial": 7,
+      "score": 5.25,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": false,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": true,
+        "include_rules": true
+      },
+      "variant_len": 1403,
+      "baseline_score": 4.75,
+      "delta": 0.5
+    },
+    {
+      "trial": 8,
+      "score": 5.75,
+      "params": {
+        "condensed": true,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": true,
+        "include_rules": false
+      },
+      "variant_len": 1156,
+      "baseline_score": 4.75,
+      "delta": 1.0
+    },
+    {
+      "trial": 9,
+      "score": 4.25,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": false,
+        "include_workflow": true,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": false
+      },
+      "variant_len": 3741,
+      "baseline_score": 4.75,
+      "delta": -0.5
+    },
+    {
+      "trial": 10,
+      "score": 4.5,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": true,
+        "include_arguments": false,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": false
+      },
+      "variant_len": 507,
+      "baseline_score": 4.75,
+      "delta": -0.25
+    },
+    {
+      "trial": 11,
+      "score": 5.5,
+      "params": {
+        "condensed": true,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": false
+      },
+      "variant_len": 805,
+      "baseline_score": 4.75,
+      "delta": 0.75
+    },
+    {
+      "trial": 12,
+      "score": 5.75,
+      "params": {
+        "condensed": true,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": true,
+        "include_rules": false
+      },
+      "variant_len": 1156,
+      "baseline_score": 4.75,
+      "delta": 1.0
+    },
+    {
+      "trial": 13,
+      "score": 6.25,
+      "params": {
+        "condensed": true,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": false
+      },
+      "variant_len": 805,
+      "baseline_score": 4.75,
+      "delta": 1.5
+    },
+    {
+      "trial": 14,
+      "score": 6.25,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": false
+      },
+      "variant_len": 805,
+      "baseline_score": 4.75,
+      "delta": 1.5
+    },
+    {
+      "trial": 15,
+      "score": 5.75,
+      "params": {
+        "condensed": true,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": false
+      },
+      "variant_len": 805,
+      "baseline_score": 4.75,
+      "delta": 1.0
+    },
+    {
+      "trial": 16,
+      "score": 5.75,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": false
+      },
+      "variant_len": 805,
+      "baseline_score": 4.75,
+      "delta": 1.0
+    },
+    {
+      "trial": 17,
+      "score": 6.5,
+      "params": {
+        "condensed": true,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_arguments": true,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": false
+      },
+      "variant_len": 805,
+      "baseline_score": 4.75,
+      "delta": 1.75
+    },
+    {
+      "trial": 18,
+      "score": 7.5,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_arguments": false,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": true
+      },
+      "variant_len": 709,
+      "baseline_score": 4.75,
+      "delta": 2.75
+    },
+    {
+      "trial": 19,
+      "score": 6.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_arguments": false,
+        "include_workflow": false,
+        "include_master_plan.md_update_rules": false,
+        "include_rules": true
+      },
+      "variant_len": 709,
+      "baseline_score": 4.75,
+      "delta": 1.25
+    }
+  ]
+}

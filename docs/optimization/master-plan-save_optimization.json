@@ -1,0 +1,338 @@
+{
+  "skill": "master-plan-save",
+  "baseline_score": 7.0,
+  "best_score": 5.0,
+  "best_params": {
+    "condensed": false,
+    "bold_rules": false,
+    "include_triggers": true,
+    "include_workflow": true,
+    "include_progress_saved": false,
+    "include_difference_from_/done": false,
+    "include_important_rules": false
+  },
+  "improvement": -2.0,
+  "n_trials": 20,
+  "results": [
+    {
+      "trial": 0,
+      "score": 3.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": true,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_progress_saved": false,
+        "include_difference_from_/done": false,
+        "include_important_rules": true
+      },
+      "variant_len": 1065,
+      "baseline_score": 7.0,
+      "delta": -4.0
+    },
+    {
+      "trial": 1,
+      "score": 5.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": true,
+        "include_progress_saved": false,
+        "include_difference_from_/done": false,
+        "include_important_rules": false
+      },
+      "variant_len": 2233,
+      "baseline_score": 7.0,
+      "delta": -2.0
+    },
+    {
+      "trial": 2,
+      "score": 5.0,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_progress_saved": true,
+        "include_difference_from_/done": true,
+        "include_important_rules": false
+      },
+      "variant_len": 2229,
+      "baseline_score": 7.0,
+      "delta": -2.0
+    },
+    {
+      "trial": 3,
+      "score": 1.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_progress_saved": true,
+        "include_difference_from_/done": true,
+        "include_important_rules": false
+      },
+      "variant_len": 2769,
+      "baseline_score": 7.0,
+      "delta": -6.0
+    },
+    {
+      "trial": 4,
+      "score": 3.5,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": true,
+        "include_progress_saved": false,
+        "include_difference_from_/done": false,
+        "include_important_rules": false
+      },
+      "variant_len": 2233,
+      "baseline_score": 7.0,
+      "delta": -3.5
+    },
+    {
+      "trial": 5,
+      "score": 4.5,
+      "params": {
+        "condensed": true,
+        "bold_rules": false,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_progress_saved": true,
+        "include_difference_from_/done": true,
+        "include_important_rules": true
+      },
+      "variant_len": 2499,
+      "baseline_score": 7.0,
+      "delta": -2.5
+    },
+    {
+      "trial": 6,
+      "score": 5.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": true,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_progress_saved": true,
+        "include_difference_from_/done": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1719,
+      "baseline_score": 7.0,
+      "delta": -2.0
+    },
+    {
+      "trial": 7,
+      "score": 0.5,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_progress_saved": false,
+        "include_difference_from_/done": true,
+        "include_important_rules": true
+      },
+      "variant_len": 2878,
+      "baseline_score": 7.0,
+      "delta": -6.5
+    },
+    {
+      "trial": 8,
+      "score": 3.0,
+      "params": {
+        "condensed": true,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": true,
+        "include_progress_saved": false,
+        "include_difference_from_/done": true,
+        "include_important_rules": false
+      },
+      "variant_len": 1853,
+      "baseline_score": 7.0,
+      "delta": -4.0
+    },
+    {
+      "trial": 9,
+      "score": 4.5,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_progress_saved": true,
+        "include_difference_from_/done": false,
+        "include_important_rules": false
+      },
+      "variant_len": 881,
+      "baseline_score": 7.0,
+      "delta": -2.5
+    },
+    {
+      "trial": 10,
+      "score": 4.0,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_progress_saved": false,
+        "include_difference_from_/done": false,
+        "include_important_rules": false
+      },
+      "variant_len": 720,
+      "baseline_score": 7.0,
+      "delta": -3.0
+    },
+    {
+      "trial": 11,
+      "score": 4.5,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_progress_saved": true,
+        "include_difference_from_/done": false,
+        "include_important_rules": false
+      },
+      "variant_len": 1811,
+      "baseline_score": 7.0,
+      "delta": -2.5
+    },
+    {
+      "trial": 12,
+      "score": 5.0,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_progress_saved": true,
+        "include_difference_from_/done": true,
+        "include_important_rules": false
+      },
+      "variant_len": 2229,
+      "baseline_score": 7.0,
+      "delta": -2.0
+    },
+    {
+      "trial": 13,
+      "score": 3.0,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_progress_saved": false,
+        "include_difference_from_/done": false,
+        "include_important_rules": false
+      },
+      "variant_len": 1810,
+      "baseline_score": 7.0,
+      "delta": -4.0
+    },
+    {
+      "trial": 14,
+      "score": 3.5,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": true,
+        "include_progress_saved": false,
+        "include_difference_from_/done": true,
+        "include_important_rules": false
+      },
+      "variant_len": 2651,
+      "baseline_score": 7.0,
+      "delta": -3.5
+    },
+    {
+      "trial": 15,
+      "score": 3.5,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_progress_saved": true,
+        "include_difference_from_/done": false,
+        "include_important_rules": false
+      },
+      "variant_len": 1811,
+      "baseline_score": 7.0,
+      "delta": -3.5
+    },
+    {
+      "trial": 16,
+      "score": 3.5,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": true,
+        "include_progress_saved": false,
+        "include_difference_from_/done": true,
+        "include_important_rules": false
+      },
+      "variant_len": 2651,
+      "baseline_score": 7.0,
+      "delta": -3.5
+    },
+    {
+      "trial": 17,
+      "score": 4.0,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_progress_saved": true,
+        "include_difference_from_/done": false,
+        "include_important_rules": false
+      },
+      "variant_len": 1811,
+      "baseline_score": 7.0,
+      "delta": -3.0
+    },
+    {
+      "trial": 18,
+      "score": 2.5,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_progress_saved": false,
+        "include_difference_from_/done": false,
+        "include_important_rules": true
+      },
+      "variant_len": 1065,
+      "baseline_score": 7.0,
+      "delta": -4.5
+    },
+    {
+      "trial": 19,
+      "score": 2.5,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_progress_saved": true,
+        "include_difference_from_/done": true,
+        "include_important_rules": false
+      },
+      "variant_len": 2769,
+      "baseline_score": 7.0,
+      "delta": -4.5
+    }
+  ]
+}

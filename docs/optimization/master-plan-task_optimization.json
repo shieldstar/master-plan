@@ -1,0 +1,401 @@
+{
+  "skill": "master-plan-task",
+  "baseline_score": 8.0,
+  "best_score": 7.333333333333333,
+  "best_params": {
+    "condensed": false,
+    "bold_rules": false,
+    "include_triggers": true,
+    "include_workflow": true,
+    "include_initial_setup": true,
+    "include_roadmap": true,
+    "include_active_work": false,
+    "include_completed": false,
+    "include_id_format_reference": true,
+    "include_important_rules": false
+  },
+  "improvement": -0.666666666666667,
+  "n_trials": 20,
+  "results": [
+    {
+      "trial": 0,
+      "score": 4.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": true,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_initial_setup": false,
+        "include_roadmap": false,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": false,
+        "include_important_rules": true
+      },
+      "variant_len": 899,
+      "baseline_score": 8.0,
+      "delta": -4.0
+    },
+    {
+      "trial": 1,
+      "score": 3.6666666666666665,
+      "params": {
+        "condensed": true,
+        "bold_rules": false,
+        "include_triggers": false,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": true,
+        "include_active_work": false,
+        "include_completed": true,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1114,
+      "baseline_score": 8.0,
+      "delta": -4.333333333333334
+    },
+    {
+      "trial": 2,
+      "score": 5.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": false,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": true,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": false,
+        "include_important_rules": false
+      },
+      "variant_len": 662,
+      "baseline_score": 8.0,
+      "delta": -3.0
+    },
+    {
+      "trial": 3,
+      "score": 5.666666666666667,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": false,
+        "include_initial_setup": false,
+        "include_roadmap": true,
+        "include_active_work": false,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1072,
+      "baseline_score": 8.0,
+      "delta": -2.333333333333333
+    },
+    {
+      "trial": 4,
+      "score": 4.666666666666667,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_initial_setup": true,
+        "include_roadmap": false,
+        "include_active_work": true,
+        "include_completed": true,
+        "include_id_format_reference": true,
+        "include_important_rules": false
+      },
+      "variant_len": 2623,
+      "baseline_score": 8.0,
+      "delta": -3.333333333333333
+    },
+    {
+      "trial": 5,
+      "score": 7.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": true,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1415,
+      "baseline_score": 8.0,
+      "delta": -1.0
+    },
+    {
+      "trial": 6,
+      "score": 5.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": false,
+        "include_initial_setup": false,
+        "include_roadmap": true,
+        "include_active_work": false,
+        "include_completed": true,
+        "include_id_format_reference": false,
+        "include_important_rules": false
+      },
+      "variant_len": 564,
+      "baseline_score": 8.0,
+      "delta": -3.0
+    },
+    {
+      "trial": 7,
+      "score": 4.0,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": true,
+        "include_workflow": true,
+        "include_initial_setup": false,
+        "include_roadmap": true,
+        "include_active_work": false,
+        "include_completed": true,
+        "include_id_format_reference": false,
+        "include_important_rules": false
+      },
+      "variant_len": 2452,
+      "baseline_score": 8.0,
+      "delta": -4.0
+    },
+    {
+      "trial": 8,
+      "score": 6.333333333333333,
+      "params": {
+        "condensed": false,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_initial_setup": false,
+        "include_roadmap": true,
+        "include_active_work": true,
+        "include_completed": true,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 3623,
+      "baseline_score": 8.0,
+      "delta": -1.666666666666667
+    },
+    {
+      "trial": 9,
+      "score": 4.333333333333333,
+      "params": {
+        "condensed": true,
+        "bold_rules": true,
+        "include_triggers": false,
+        "include_workflow": true,
+        "include_initial_setup": true,
+        "include_roadmap": false,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": false,
+        "include_important_rules": true
+      },
+      "variant_len": 2268,
+      "baseline_score": 8.0,
+      "delta": -3.666666666666667
+    },
+    {
+      "trial": 10,
+      "score": 6.666666666666667,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": false,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1301,
+      "baseline_score": 8.0,
+      "delta": -1.333333333333333
+    },
+    {
+      "trial": 11,
+      "score": 6.333333333333333,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": false,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1301,
+      "baseline_score": 8.0,
+      "delta": -1.666666666666667
+    },
+    {
+      "trial": 12,
+      "score": 6.333333333333333,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": false,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1301,
+      "baseline_score": 8.0,
+      "delta": -1.666666666666667
+    },
+    {
+      "trial": 13,
+      "score": 6.666666666666667,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": false,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1301,
+      "baseline_score": 8.0,
+      "delta": -1.333333333333333
+    },
+    {
+      "trial": 14,
+      "score": 6.666666666666667,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": true,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1415,
+      "baseline_score": 8.0,
+      "delta": -1.333333333333333
+    },
+    {
+      "trial": 15,
+      "score": 6.666666666666667,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": false,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1301,
+      "baseline_score": 8.0,
+      "delta": -1.333333333333333
+    },
+    {
+      "trial": 16,
+      "score": 7.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": true,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1415,
+      "baseline_score": 8.0,
+      "delta": -1.0
+    },
+    {
+      "trial": 17,
+      "score": 7.0,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": false,
+        "include_initial_setup": true,
+        "include_roadmap": true,
+        "include_active_work": true,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": true
+      },
+      "variant_len": 1415,
+      "baseline_score": 8.0,
+      "delta": -1.0
+    },
+    {
+      "trial": 18,
+      "score": 7.333333333333333,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": true,
+        "include_initial_setup": true,
+        "include_roadmap": true,
+        "include_active_work": false,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": false
+      },
+      "variant_len": 3324,
+      "baseline_score": 8.0,
+      "delta": -0.666666666666667
+    },
+    {
+      "trial": 19,
+      "score": 7.333333333333333,
+      "params": {
+        "condensed": false,
+        "bold_rules": false,
+        "include_triggers": true,
+        "include_workflow": true,
+        "include_initial_setup": true,
+        "include_roadmap": true,
+        "include_active_work": false,
+        "include_completed": false,
+        "include_id_format_reference": true,
+        "include_important_rules": false
+      },
+      "variant_len": 3324,
+      "baseline_score": 8.0,
+      "delta": -0.666666666666667
+    }
+  ]
+}
